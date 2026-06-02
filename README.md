@@ -10,4 +10,4 @@
 
 ## 目录
 
-（待更新）
+- [📂 文件整理小助手](./file-organizer/) — 自动按类型分类整理文件（Python GUI + CLI）

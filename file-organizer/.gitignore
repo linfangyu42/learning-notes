@@ -1,0 +1,10 @@
+# 编译产物
+dist/
+build/
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.spec
